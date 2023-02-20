@@ -15,11 +15,12 @@ Our components:
   - Modified version of skyWM
   - .xsessions files
   - Installer
-  - Settings application (Written in Python3 with TkInter)
+  - Orbital Settings binary
   - Terminator theme
   - Rofi theme
   - GTK3 theme
 - [skyWM](https://github.com/OrbitalDE/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy. 
+- [settings](https://github.com/OrbitalDE/settings) - A simple graphical settings application written for Orbital utilising Python and TkInter. 
 - [Keybinds](https://github.com/OrbitalDE/keybinds) - A GitHub pages site that displays when users press `Super` + `H`
 
 Open source components we utilised:
@@ -33,7 +34,17 @@ Open source components we utilised:
 
 ## Screenshots
 
-* Coming soon
+![Orbital Desktop](https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/1.png)
+
+* Desktop overview of Orbital
+
+![Orbital Desktop](https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/2.png)
+
+* Orbital desktop with 3 tiled windows open: orbital-settings, Firefox showing orbital keybinds and Vim.
+
+![Orbital App Grid](https://raw.githubusercontent.com/OrbitalDE/Orbital/main/media/3.png)
+
+* Orbital App Grid (Modified Rofi)
 
 # Credits
-Created by [http.llamaz](https://httpllamaz.github.io) with help from [jakkaCollins](https://jakkacollins.github.io).
+Created by [http.llamaz](https://httpllamaz.github.io) with help from [jakkaCollins](https://github.com/jakkaCollins).
